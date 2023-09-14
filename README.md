@@ -88,17 +88,22 @@ You can customize this README to include additional information about your proje
 >        If you find this project helpful or have suggestions for improvements, we'd love to hear from you! Please consider leaving feedback by opening an issue or reaching out to us.
 
 ## If you find this project useful, please consider giving it a star ⭐ to show your support.
+ 
+# My Awesome Project 👇  
 
-    
+![Example Image](https://github.com/prakash-santra/Legal-Law_GPT/assets/101620255/f90b2935-dceb-42a7-9580-69d3f9503d98)
 
+![2](https://github.com/prakash-santra/Legal-Law_GPT/assets/101620255/eedb227f-84f0-44e1-9eb6-8f4d3fb63a9e)
 
+![3](https://github.com/prakash-santra/Legal-Law_GPT/assets/101620255/e21f4373-f860-4e3b-93de-414b47e01b31)
 
+![4](https://github.com/prakash-santra/Legal-Law_GPT/assets/101620255/3f4760f8-1448-4c97-b956-0de76d6b5664)
 
+![5](https://github.com/prakash-santra/Legal-Law_GPT/assets/101620255/57caf7c7-5a24-4765-9143-856b4da2f7f7)
 
+![6](https://github.com/prakash-santra/Legal-Law_GPT/assets/101620255/86afd699-a0bb-4ffc-966d-763331b8ae9a)
 
-
-
-
+![7](https://github.com/prakash-santra/Legal-Law_GPT/assets/101620255/9528eff4-dccf-4145-8b3f-8b5cca6c05d9)
 
 
 
